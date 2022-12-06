@@ -1,1 +1,1 @@
-# DTLCx-RESNET
+# DTLCx-RESNET--DTLCx: An Improved ResNet Architecture to Classify Normaland Conventional Pneumonia Cases from COVID-19 Instanceswith Grad-CAM Based Superimposed Visualization UtilizingChest X-ray Images
